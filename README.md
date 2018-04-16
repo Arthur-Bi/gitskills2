@@ -1,3 +1,3 @@
 # gitskills2
 This is my test work.
-testing
+testing my first code
